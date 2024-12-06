@@ -1,0 +1,2 @@
+# maqola
+maqola.uz
